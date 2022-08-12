@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://lcap-qa.launchpad.cfapps.sap.hana.ondemand.com/lcapMyTestCICD.MyTestCICDLaunchpad-1.0.0",
+  "DeployedUTCTime": "2022-08-12T02:12:56.869Z",
+  "ApplicationLogURL": "https://logs.cf.sap.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:MyTestCICD-srv)))))"
+}
